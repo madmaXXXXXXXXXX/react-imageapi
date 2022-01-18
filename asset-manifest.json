@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-imageapi/static/css/main.7192d48f.css",
+    "main.js": "/react-imageapi/static/js/main.50baed46.js",
+    "static/js/787.73a8169a.chunk.js": "/react-imageapi/static/js/787.73a8169a.chunk.js",
+    "static/media/logo.svg": "/react-imageapi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-imageapi/index.html",
+    "main.7192d48f.css.map": "/react-imageapi/static/css/main.7192d48f.css.map",
+    "main.50baed46.js.map": "/react-imageapi/static/js/main.50baed46.js.map",
+    "787.73a8169a.chunk.js.map": "/react-imageapi/static/js/787.73a8169a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7192d48f.css",
+    "static/js/main.50baed46.js"
+  ]
+}
